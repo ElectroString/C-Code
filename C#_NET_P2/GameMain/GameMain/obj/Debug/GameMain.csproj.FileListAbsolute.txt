@@ -1,0 +1,10 @@
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\bin\Debug\GameMain.exe.config
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\bin\Debug\GameMain.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\bin\Debug\GameMain.pdb
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.csproj.AssemblyReference.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.Form1.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.Properties.Resources.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.csproj.GenerateResource.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 2\GameMain\GameMain\obj\Debug\GameMain.pdb
