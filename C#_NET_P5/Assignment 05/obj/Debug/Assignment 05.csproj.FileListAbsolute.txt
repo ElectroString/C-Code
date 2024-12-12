@@ -1,0 +1,16 @@
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\bin\Debug\Assignment 05.exe.config
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\bin\Debug\Assignment 05.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\bin\Debug\Assignment 05.pdb
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment 05.csproj.AssemblyReference.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment_05.Form1.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment_05.Properties.Resources.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment 05.csproj.GenerateResource.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment 05.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment 05.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment 05.pdb
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment_05.HelpForm.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment_05.AboutDCForm.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignment_05.TechnicalSupportForm.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 5\Assignment 05\obj\Debug\Assignme.077080A1.Up2Date
