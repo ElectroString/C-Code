@@ -1,0 +1,10 @@
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\bin\Debug\COSC Assignment 1.exe.config
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\bin\Debug\COSC Assignment 1.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\bin\Debug\COSC Assignment 1.pdb
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC Assignment 1.csproj.AssemblyReference.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC_Assignment_1.Form1.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC_Assignment_1.Properties.Resources.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC Assignment 1.csproj.GenerateResource.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC Assignment 1.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 1\COSC Assignment 1\obj\Debug\COSC Assignment 1.pdb
