@@ -1,0 +1,16 @@
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\bin\Debug\net8.0-windows\DeckOfCards.exe
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\bin\Debug\net8.0-windows\DeckOfCards.deps.json
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\bin\Debug\net8.0-windows\DeckOfCards.runtimeconfig.json
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\bin\Debug\net8.0-windows\DeckOfCards.dll
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\bin\Debug\net8.0-windows\DeckOfCards.pdb
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.Form1.resources
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.csproj.GenerateResource.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.AssemblyInfo.cs
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.dll
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\refint\DeckOfCards.dll
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.pdb
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\DeckOfCards.genruntimeconfig.cache
+C:\Users\Cameron\Desktop\School\Programming\C#\Assignments\COSC Assignment 4\DeckOfCards\obj\Debug\net8.0-windows\ref\DeckOfCards.dll
